@@ -1,4 +1,4 @@
-[俄语版](https://github.com/keywish/arduino-uno-base-kit/new/master/README.md)
+[英文版](https://github.com/keywish/arduino-uno-base-kit/blob/master/README.md)
 
 # Пожалуйста свяжитесь с нами
 Электронная почта технической поддержки: support@keywish-robot.com </br>
