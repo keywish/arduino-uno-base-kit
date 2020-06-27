@@ -1,4 +1,4 @@
-[俄语版]()
+[俄语版](https://github.com/keywish/arduino-uno-base-kit/blob/russian_language/README.md)
 
 # Please Contact Us
 Technical support email: support@keywish-robot.com</br>
